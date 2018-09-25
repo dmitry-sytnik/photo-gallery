@@ -14,5 +14,4 @@ error_reporting = E_ALL & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT
 Для реализации отправки e-mail при отправке комментария следует в файле \includes\comment.php исправить получателя письма в строке 45 
 $to = "Admin Photo-Gallery <recipient@mail.ru>";
 и отправителя письма в строке 66
-$from = "Free Man <sender@mail.ru>";
-Сам сервер при этом должен быть настроен на возможность отправки писем.
+$from = "Free Man <sender@mail.ru>"; . Сам сервер при этом должен быть настроен на возможность отправки писем.
