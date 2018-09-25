@@ -1,0 +1,15 @@
+2018-05-09 21:08:15 | Logs Cleared: by User ID 1
+2018-05-09 21:08:23 | Login: kskoglund logged in.
+2018-05-10 10:51:17 | Login: kskoglund logged in.
+2018-05-10 10:52:45 | Login: kskoglund logged in.
+2018-05-10 13:17:49 | Login: kskoglund logged in.
+2018-05-10 13:57:06 | Login: kskoglund logged in.
+2018-05-11 10:20:32 | Login: kskoglund logged in.
+2018-05-11 12:01:21 | Login: kskoglund logged in.
+2018-05-11 12:58:26 | Login: kskoglund logged in.
+2018-05-11 13:19:18 | Login: kskoglund logged in.
+2018-05-12 13:14:23 | Login: kskoglund logged in.
+2018-05-25 19:54:28 | Login: kskoglund logged in.
+2018-06-10 16:43:13 | Login: kskoglund logged in.
+2018-09-24 21:31:38 | Login: kskoglund logged in.
+2018-09-24 23:06:26 | Login: kskoglund logged in.

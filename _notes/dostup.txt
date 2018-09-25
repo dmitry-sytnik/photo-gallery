@@ -1,0 +1,5 @@
+Доступ к базе данных:
+gallery
+phpOTL123
+
+Хранится и редактируется в файле includes/config.php
